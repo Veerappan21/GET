@@ -1,0 +1,144 @@
+{
+  "Hotelbooking": [
+    {
+      "id": "0",
+      "Name": "Veerappan",
+      "Phone": "+910000000001",
+      "Email": "mailtoVeerappan@gmail.com",
+      "CardNumber": "45637647483837",
+      "expiryDate": "2025-10",
+      "uid": "adfjdjiejfeififjeifi",
+      "Bookingid": "001",
+      "ProviderConfirmation": "28416738",
+      "Reference": "qqqq",
+      "hotelDetails": {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "ICSINICA",
+          "chainCode": "IC",
+          "name": "INTERCONTINENTAL HOTEL",
+          "cityCode": "SIN",
+          "address": {
+            "countryCode": "SG"
+          },
+          "amenities": [
+            "CRIBS_AVAILABLE"
+          ]
+        }
+      }
+    },
+    {
+      "id": "1",
+      "Name": "Dinesh",
+      "Phone": "+910000000003",
+      "Email": "mailtodinesh@gmail.com",
+      "CardNumber": "45637647483837",
+      "expiryDate": "2025-10",
+      "uid": "adfjdjiejfeififjeifi",
+      "Bookingid": "001",
+      "ProviderConfirmation": "28416738",
+      "Reference": "qqqq",
+      "hotelDetails": {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "ICSINICA",
+          "chainCode": "IC",
+          "name": "INTERCONTINENTAL HOTEL",
+          "cityCode": "SIN",
+          "address": {
+            "countryCode": "IND"
+          },
+          "amenities": [
+            "CRIBS_AVAILABLE"
+          ]
+        }
+      }
+    },
+    {
+      "id": "2",
+      "Name": "Mani",
+      "Phone": "+910000000004",
+      "Email": "mailtomani@gmail.com",
+      "CardNumber": "45637647483837",
+      "expiryDate": "2025-10",
+      "uid": "adfjdjiejfeififjeifi",
+      "Bookingid": "001",
+      "ProviderConfirmation": "28416738",
+      "Reference": "qqqq",
+      "hotelDetails": {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "ICSINICA",
+          "chainCode": "IC",
+          "name": "INTERCONTINENTAL HOTEL",
+          "cityCode": "SIN",
+          "address": {
+            "countryCode": "SWI"
+          },
+          "amenities": [
+            "CRIBS_AVAILABLE"
+          ]
+        }
+      }
+    },
+    {
+      "id": "3",
+      "Name": "Gowtham",
+      "Phone": "+910000000005",
+      "Email": "mailtoGotham@gmail.com",
+      "CardNumber": "45637647483837",
+      "expiryDate": "2025-10",
+      "uid": "adfjdjiejfeififjeifi",
+      "Bookingid": "001",
+      "ProviderConfirmation": "28416738",
+      "Reference": "qqqq",
+      "hotelDetails": {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "ICSINICA",
+          "chainCode": "IC",
+          "name": "INTERCONTINENTAL HOTEL",
+          "cityCode": "SIN",
+          "address": {
+            "countryCode": "KOR"
+          },
+          "amenities": [
+            "CRIBS_AVAILABLE"
+          ]
+        }
+      }
+    },
+    {
+      "id": "4",
+      "Name": "MR V",
+      "Phone": "+910000000006",
+      "Email": "mailtovinoth@gmail.com",
+      "CardNumber": "45637675757837",
+      "expiryDate": "2025-10",
+      "uid": "adfjdjiejfeififjeifi",
+      "Bookingid": "004",
+      "ProviderConfirmation": "28416738",
+      "Reference": "qqqq",
+      "hotelDetails": {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "AC9009",
+          "chainCode": "IC",
+          "name": " ACCORD INTERCONTINENTAL HOTEL",
+          "cityCode": "SIN",
+          "address": {
+            "countryCode": "IND"
+          },
+          "amenities": [
+            "CRIBS_AVAILABLE"
+          ]
+        }
+      }
+    }
+  ]
+}
